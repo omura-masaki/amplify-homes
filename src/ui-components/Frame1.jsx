@@ -19,7 +19,7 @@ export default function Frame1(props) {
       position="relative"
       borderRadius="10px"
       padding="0px 0px 0px 0px"
-      backgroundColor="rgba(255,255,255,1)"
+      backgroundColor="rgba(17.00000088661909,16.963165663182735,16.929166987538338,0.14000000059604645)"
       {...rest}
       {...getOverrideProps(overrides, "View")}
     >
